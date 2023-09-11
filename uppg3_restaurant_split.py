@@ -34,8 +34,8 @@ def main():
     names = names_string.split(", ")
     cost = int(input("Notan kostade: "))
 
-    print(check_with_choice(names), cost)
-    print(check_without_choice(names), cost)
+    print(check_with_choice(names, cost))
+    print(check_without_choice(names, cost))
 
 
 main()
