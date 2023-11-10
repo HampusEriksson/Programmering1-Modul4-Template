@@ -11,6 +11,7 @@ def calculate_mean(numbers: list):
     pass
 
 
+
 def find_highest_number(numbers: list):
     # Funktionen ska returnera det största numret av listan numbers
     pass
